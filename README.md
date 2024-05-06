@@ -25,3 +25,8 @@ git clone https://github.com/ManjariSingh99/E-commerce-Product-Management-API.gi
 - python app.py
 
 The API will be accessible at http://127.0.0.1:5000/.
+
+## API Documentation
+
+For detailed API documentation, please refer to [API_Documentation.md](API_Documentation.md).
+
