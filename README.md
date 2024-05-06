@@ -4,10 +4,11 @@ This is a RESTful API built with Flask for managing products in an e-commerce ap
 
 ## Setup Instructions
 ### Requirements
-Python 3.x
-Flask
-SQLAlchemy (for database interaction, optional if using in-memory data)
-Installation
+- Python 3.x
+- Flask
+- SQLAlchemy (for database interaction, optional if using in-memory data)
+  
+## Installation
 ### Clone this repository to your local machine:
 git clone https://github.com/your-username/e-commerce-api.git
 ### Navigate to the project directory:
