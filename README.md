@@ -2,7 +2,7 @@
 
 This is a RESTful API built with Flask for managing products in an e-commerce application.
 
-Setup Instructions
+##Setup Instructions
 Requirements
 Python 3.x
 Flask
